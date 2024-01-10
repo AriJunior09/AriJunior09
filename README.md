@@ -3,12 +3,7 @@
 * 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio(3º Semestre) e também fazendo um curso completo de Java.
 * 💼 Procuro Trabalhar como Desenvolvedor Back end. 
 
-<div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AriJunior09&theme=shadow_blue&show_icons=true)"/>
 
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriJunior09&layout=compact">
-</div>
 
 ---
 ## Contato
@@ -32,4 +27,12 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="60">
  </a>
  </div>
+
+ ---
+ <div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AriJunior09&theme=shadow_blue&show_icons=true)"/>
+
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriJunior09&layout=compact">
+</div>
           
