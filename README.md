@@ -30,7 +30,7 @@
 
  ---
  <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AriJunior09&theme=shadow_blue"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AriJunior09&theme=shadow_blue&show_icons=true)"/>
 
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriJunior09&layout=compact&theme=shadow_blue">
