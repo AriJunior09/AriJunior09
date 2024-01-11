@@ -14,6 +14,7 @@
 </div>
 
 ## Linguagens
+
 <div>
 <a href="https://www.java.com/pt-BR/">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" heigth="50" width="60">
@@ -25,7 +26,7 @@
  </div>
 
  ---
- 
+
  <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AriJunior09&theme=shadow_blue&show_icons=true)"/>
 
