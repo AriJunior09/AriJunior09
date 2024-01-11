@@ -3,9 +3,6 @@
 * 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio(3º Semestre) e também fazendo um curso completo de Java.
 * 💼 Procuro Trabalhar como Desenvolvedor Back end. 
 
-
-
----
 ## Contato
 <div>
 <a href="https://www.linkedin.com/in/arijunior09/">
@@ -15,7 +12,6 @@
  <img src="https://brunopalmahidroponia.com.br/wp-content/uploads/2020/07/logo-instagram-png-fundo-transparente.png" aling="center" height="50" width="60">
 </a>
 </div>
-
 
 ## Linguagens
 <div>
