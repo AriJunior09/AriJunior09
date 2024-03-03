@@ -6,13 +6,13 @@
 ## Contato
 <div>
 <a href="https://www.linkedin.com/in/arijunior09/">
- <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" aling="center" height="50" width="60">
+ <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" aling="center" height="40" width="50">
 </a>
 <a href="mailto: arioliveirajuniorjose@gmail.com">
- <img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo-650x366.png" aling="center" height="50" width="85">
+ <img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo-650x366.png" aling="center" height="40" width="70">
 </a>
 <a href="https://www.instagram.com/arijunior09">
- <img src="https://brunopalmahidroponia.com.br/wp-content/uploads/2020/07/logo-instagram-png-fundo-transparente.png" aling="center" height="50" width="60">
+ <img src="https://brunopalmahidroponia.com.br/wp-content/uploads/2020/07/logo-instagram-png-fundo-transparente.png" aling="center" height="40" width="50">
 </a>
 </div>
 
