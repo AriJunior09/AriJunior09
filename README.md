@@ -34,15 +34,11 @@
 <a href="https://git-scm.com/">
  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" align="center" heigth="50" width="60">
  </a>
- </div>
 
-<div>
 <a href="https://www.postgresql.org/">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" align="center" heigth="50" width="60">
  </a>
- </div>
 
-<div>
 <a href="https://code.visualstudio.com/">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" align="center" heigth="50" width="60">
  </a>
