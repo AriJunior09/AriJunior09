@@ -42,6 +42,14 @@
 <a href="https://code.visualstudio.com/">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" align="center" heigth="40" width="50">
  </a>
+
+ <a href="https://eclipseide.org/">
+ <img src="https://c1.klipartz.com/pngpicture/432/970/sticker-png-google-logo-eclipse-integrated-development-environment-eclipse-foundation-plugin-myeclipse-apache-maven-eclipse-modeling-framework-thumbnail.png" align="center" heigth="40" width="50">
+ </a>
+
+  <a href="https://www.jetbrains.com/pt-br/idea/">
+ <img src="https://yt3.googleusercontent.com/lcAhRT3Zh267eu9KASLxG4bK3thBf4PyEjjhH0Ig7K289N5EG8Ws18aLh3bjC9U7lblvn-A3TQ=s900-c-k-c0x00ffffff-no-rj" align="center" heigth="40" width="50">
+ </a>
  </div>
 
  ---
