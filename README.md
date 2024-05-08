@@ -31,14 +31,6 @@
  ## Tecnologias
 
 <div>
-<a href="https://git-scm.com/">
- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" align="center" heigth="40" width="50">
- </a>
-
-<a href="https://www.postgresql.org/">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" align="center" heigth="40" width="50">
- </a>
-
 <a href="https://code.visualstudio.com/">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" align="center" heigth="40" width="50">
  </a>
@@ -47,9 +39,27 @@
  <img src="https://c1.klipartz.com/pngpicture/432/970/sticker-png-google-logo-eclipse-integrated-development-environment-eclipse-foundation-plugin-myeclipse-apache-maven-eclipse-modeling-framework-thumbnail.png" align="center" heigth="40" width="50">
  </a>
 
-  <a href="https://www.jetbrains.com/pt-br/idea/">
+   <a href="https://www.jetbrains.com/pt-br/idea/">
  <img src="https://ih1.redbubble.net/image.3503307933.0955/st,small,507x507-pad,600x600,f8f8f8.jpg" align="center" heigth="40" width="50">
  </a>
+
+ <a href="https://netbeans.apache.org/front/main/index.html">
+ <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" align="center" heigth="40" width="50">
+ </a>
+
+ <a href="https://git-scm.com/">
+ <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" align="center" heigth="40" width="50">
+ </a>
+
+<a href="https://www.postgresql.org/">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" align="center" heigth="40" width="50">
+ </a>
+
+
+
+
+
+
  </div>
 
  ---
