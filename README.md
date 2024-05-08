@@ -48,7 +48,7 @@
  </a>
 
   <a href="https://www.jetbrains.com/pt-br/idea/">
- <img src="https://hermes.digitalinnovation.one/articles/cover/14f7ca38-af7d-4b21-a0d9-c581c2611e9b.png" align="center" heigth="40" width="50">
+ <img src="https://ih1.redbubble.net/image.3503307933.0955/st,small,507x507-pad,600x600,f8f8f8.jpg" align="center" heigth="40" width="50">
  </a>
  </div>
 
