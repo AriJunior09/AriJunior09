@@ -53,7 +53,7 @@
  </a>
 
    <a href="https://maven.apache.org/">
- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" align="center" heigth="40" width="50">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXt0j3wavgPGYlB9u2SDBuVq_JoMtQwhPXqC4tYOivwRLU3wzOGYgJMrbnSoohG3evXk&usqp=CAU" align="center" heigth="40" width="50">
  </a>
 
  <a href="https://git-scm.com/">
