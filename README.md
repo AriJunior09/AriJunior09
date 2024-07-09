@@ -32,7 +32,7 @@
 
 <div>
 <a href="https://code.visualstudio.com/">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" align="center" heigth="40" width="50">
+ <img src="https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" align="center" heigth="40" width="50">
  </a>
 
    <a href="https://www.jetbrains.com/pt-br/idea/">
