@@ -11,9 +11,7 @@
 <a href="mailto: arioliveirajuniorjose@gmail.com">
  <img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo-650x366.png" aling="center" height="40" width="70">
 </a>
-<a href="https://www.instagram.com/arijunior09">
- <img src="https://brunopalmahidroponia.com.br/wp-content/uploads/2020/07/logo-instagram-png-fundo-transparente.png" aling="center" height="40" width="50">
-</a>
+
 </div>
 
 ## Linguagens
@@ -31,6 +29,10 @@
  ## Tecnologias
 
 <div>
+  <a href="https://spring.io/">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" align="center" heigth="40" width="50">
+ </a>
+
 <a href="https://code.visualstudio.com/">
  <img src="https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" align="center" heigth="40" width="50">
  </a>
