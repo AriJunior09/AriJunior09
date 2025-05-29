@@ -1,6 +1,6 @@
 ### Olá, me chamo Ari Júnior
 
-* 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas(4º Semestre) e recentemente conclui o Bootcamp Santander 2024 - Backend com Java.
+* 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas(5º Semestre) e recentemente conclui o Bootcamp Santander 2024 - Backend com Java.
 * 💼 Procuro Trabalhar como Desenvolvedor Backend. 
 
 ## Contato
