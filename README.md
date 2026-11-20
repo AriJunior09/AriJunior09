@@ -1,91 +1,63 @@
-### Olá, me chamo Ari Júnior
+<h1 align="center">Olá, eu sou o Ari Júnior 👋</h1>
+<p align="center">
+  <b>Desenvolvedor Python</b> · Automação de processos para varejo, RH e área fiscal<br>
+  📍 Quixadá, Ceará — Brasil
+</p>
 
-* 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas e recentemente concluí o Bootcamp Santander 2024 - Backend com Java.
-* ✅ No momento, estou aprofundando meus estudos em Python, explorando suas particularidades e aplicações práticas.
-* 💼 Tenho como objetivo me tornar especialista em Desenvolvimento Backend.
-* 💡 Tenho afinidade em resolver problemas e uma boa capacidade de raciocínio lógico.
+<p align="center">
+  <a href="https://www.linkedin.com/in/arijunior09"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arijuniorjose03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
+
 ---
-## Aqui você poderá conhecer alguns dos projetos que eu fiz como desenvolvedor de software.  
-## Basta clicar na aba **Repositories** e explorar à vontade! 🚀
 
+## 🚀 Sobre mim
 
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+- 🏅 Concluí o **Bootcamp Santander 2024 – Backend com Java**
+- 🐍 Hoje desenvolvo principalmente em **Python**, criando programas desktop que resolvem problemas reais de empresas
+- 🏪 Trabalho com o dia a dia de uma rede de lojas de varejo, por isso automatizo tarefas como conferência de notas fiscais, metas de vendedores e controle de RH
+- 🎯 Objetivo: evoluir como **desenvolvedor backend** e criar soluções que economizam horas de trabalho manual
+- 🥋 Fora do código: jiu-jitsu, games e tempo com a família
 
-## Contato
-<div>
-<a href="https://www.linkedin.com/in/arijunior09/">
- <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" aling="center" height="40" width="50">
-</a>
-<a href="mailto: arijuniorjose03@gmail.com">
- <img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo-650x366.png" aling="center" height="40" width="70">
-</a>
+---
 
-</div>
+## 🛠️ Projetos em destaque
 
-## Linguagens
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| **Baixar NF-e** | Consulta e baixa XML/DANFE de NF-e pela chave de acesso usando certificado A1 | Python · Tkinter · PyInstaller |
+| **Rastreia** | Rastreia encomendas e mercadorias em um só lugar, com o status de cada entrega | Python · Tkinter |
+| **Resumo XML** | Lê XMLs de NF-e e gera um resumo para conferência rápida das notas | Python · Tkinter |
+| **Transformar Planilha** | Trata o relatório de Análise de Compras: escolhe colunas e soma linhas por referência | Python · Pandas · Excel |
+| **Metas Mensais e Semanais** | Acompanha as metas dos vendedores por loja e gera planilhas Excel | Python · Tkinter · Excel |
+| **Controle de RH** | Sistema de RH para varejo: funcionários, folha, comissões e férias | Python · Banco de dados |
 
-<div>
-<a href="https://www.java.com/pt-BR/">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" heigth="40" width="50">
- </a>
+> 💡 Veja todos os projetos na aba [Repositories](https://github.com/AriJunior09?tab=repositories).
 
- <a href="https://www.python.org/">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="40" width="50">
- </a>
- </div>
+---
 
- ## Tecnologias
+## 💻 Tecnologias
 
-<div>
+**Linguagens**
 
-<a href="https://code.visualstudio.com/">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5uchR8ys7SD1OFfIPTGi6BKuzF8xFsPXRA&s" align="center" heigth="40" width="50">
- </a>
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Linguagens">
 
-   <a href="https://www.jetbrains.com/pt-br/idea/">
- <img src="https://ih1.redbubble.net/image.3503307933.0955/st,small,507x507-pad,600x600,f8f8f8.jpg" align="center" heigth="40" width="50">
- </a>
+**Ferramentas e frameworks**
 
- <a href="https://eclipseide.org/">
- <img src="https://c1.klipartz.com/pngpicture/432/970/sticker-png-google-logo-eclipse-integrated-development-environment-eclipse-foundation-plugin-myeclipse-apache-maven-eclipse-modeling-framework-thumbnail.png" align="center" heigth="40" width="50">
- </a>
+<img src="https://skillicons.dev/icons?i=spring,maven,postgres,git,github,vscode,idea,eclipse,postman&theme=dark" alt="Ferramentas">
 
-   <a href="https://junit.org/junit5/">
- <img src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png" align="center" heigth="40" width="50">
- </a>
+**Também uso:** Tkinter · Pandas · openpyxl · PyInstaller · JUnit 5
 
-   <a href="https://www.postman.com/">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQHVAKk9F6iM2_JNGAAPV1mSBQB1o525qiDzN7A9SYwA29DVy2WFmWakzvdOMcndalaA&usqp=CAU" align="center" heigth="40" width="50">
- </a>
+---
 
-  <a href="https://spring.io/">
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" align="center" heigth="40" width="50">
- </a>
- 
-   <a href="https://maven.apache.org/">
- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" align="center" heigth="40" width="50">
- </a>
+## 📊 Estatísticas
 
- <a href="https://git-scm.com/">
- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" align="center" heigth="40" width="50">
- </a>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AriJunior09&show_icons=true&theme=shadow_blue&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriJunior09&layout=compact&theme=shadow_blue&hide_border=true" alt="Linguagens mais usadas">
+</p>
 
-<a href="https://www.postgresql.org/">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" align="center" heigth="40" width="50">
- </a>
+---
 
-
-
-
-
-
- </div>
-
- ---
-
- <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AriJunior09&theme=shadow_blue&show_icons=true)"/>
-
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriJunior09&layout=compact&theme=shadow_blue">
-</div>
-          
+<p align="center"><i>"Se uma tarefa é repetitiva, ela merece virar um programa."</i></p>
